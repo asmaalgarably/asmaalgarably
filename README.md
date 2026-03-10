@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Asma Al-Garably
+**Computer Science Graduate | AI & Web Developer**
 
-<!--
-**asmaalgarably/asmaalgarably** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate focused on building intelligent web applications. My current work involves developing responsive frontend interfaces and implementing AI-driven logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+* **Frontend:** HTML5, CSS3, Bootstrap, Responsive Design.
+* **Programming:** JavaScript (JS), Python.
+* **Specialization:** Artificial Intelligence (AI) & Machine Learning.
+* **Tools:** Git, GitHub, VS Code.
+
+---
+
+### 🚀 Current Focus
+* Developing interactive web tools using **JavaScript**.
+* Preparing frontend architectures for **Django** integration.
+* Exploring the intersection of **AI** and Web Development.
+
+---
+
+### 📫 Contact
+asmaalgarably@gmail.com
